@@ -11,8 +11,9 @@ bot for retweeting tweets in game development
 
 4.Edit the **bot.bat** file as shown below
 
-`(Path to python.exe file) (Path to bot.py file)
-exit`
+`(Path to python.exe file) (Path to bot.py file)`
+
+`exit`
 
 5.Copy paste the bot.bat file in
 
@@ -20,4 +21,4 @@ exit`
 
 6.Restart PC
 
-##Happy Retweeting
+# Happy Retweeting
