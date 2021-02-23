@@ -44,7 +44,7 @@ def main():
         
         tweets=[]
         for tweet in list_tweets:
-            if(tweet._json['user']['followers_count']<=200 and not tweet._json['retweeted']):
+            if(tweet._json['user']['followers_count']<=200):
                 tweets.append(tweet._json['id'])
         
         print(f'retweeting {count} tweets')
@@ -72,6 +72,8 @@ def main():
         
         with open(path,'w') as f:
             f.write(str(last_index))
+    
+        
         
         
 if __name__=='__main__':
