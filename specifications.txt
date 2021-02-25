@@ -1,0 +1,6 @@
+period=1
+count=2
+APIkey=GnfAM5f1z3wHDW3advJ5YobUg
+APIsecret=vfKyH19lAOZVMEicv2UqPoHFhdmdJQdQGigQXKGa4PaAo2avhm
+AUTHtoken=1361612620806033413-7aRH9mX7qc7LUp9xkcf8XEyA8r705a
+AUTHsecret=iTfMaLOPHgtGRz7KpuMybHBtFah5Ap3sjOZNrLt2xWaEB

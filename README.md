@@ -4,7 +4,9 @@ bot for retweeting tweets in game development
 **Steps to install this bot**
 
 1.Download Python on pc from windows store.
+
 2.Download this bot.
+
 3.Run the command below in cmd prompt
 
 `pip install (Path for requirements.txt file)`
@@ -19,6 +21,8 @@ bot for retweeting tweets in game development
 
 `C:\Users\YourAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
-6.Restart PC
+6.Fill the specifications.txt
+
+**If you are updating the exixting version of the bot then except bot.bat file replace every thing**
 
 # Happy Retweeting
